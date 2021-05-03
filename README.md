@@ -3,4 +3,5 @@ This is a Voting System web application created with ASP.NET webform framework, 
 
 #Attached below is the Entity Relationship diagram for the Voting System
 
-![GitHub Logo](/Voting System ERD/logo.png)
+![Voting System ERD](https://user-images.githubusercontent.com/46275427/116902831-8a633880-ac33-11eb-88e3-9cd4daf79203.PNG)
+
